@@ -8,7 +8,11 @@
 
 ## tips
 
-1. 多个人分别用以下命令克隆项目到本地
+0. 多个人ork项目到自己仓库
+> 点击fork按钮
+
+1. 克隆自己仓库的项目到本地
+> $git clone -b ***dev git@github.com:用户名/Web.git
 > $ git clone [https://github.com/RyanUaa/Web.git](https://github.com/RyanUaa/Web.git) 
 
 2. 创建远程origin的dev分支到本地，于是可以用
